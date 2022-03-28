@@ -11,7 +11,6 @@
   inputs.src-metrics-master.ref   = "refs/heads/master";
   inputs.src-metrics-master.owner = "status-im";
   inputs.src-metrics-master.repo  = "nim-metrics";
-  inputs.src-metrics-master.dir   = "";
   inputs.src-metrics-master.type  = "github";
   
   inputs."chronos".owner = "nim-nix-pkgs";
